@@ -9,3 +9,4 @@
 
 8. KILLER FEATURE OF FASTAPI - pydantic
 9. it defines data, structures data and validata data
+10. basemodel - used to define the structure (schema) of data that the fastapi accepts or returns
